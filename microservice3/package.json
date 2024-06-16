@@ -1,0 +1,13 @@
+{
+    "name": "microservice3",
+    "version": "1.0.0",
+    "description": "Microservice 3",
+    "main": "src/server.js",
+    "scripts": {
+      "start": "node src/server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+  
